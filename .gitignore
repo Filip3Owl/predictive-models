@@ -1,0 +1,5 @@
+.venv
+.env
+mypath_cache
+__pycache__
+.mypath_cache
